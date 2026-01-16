@@ -74,7 +74,7 @@ body {
 }
 
 .hero {
-  background-image: url(../images/fundoHero.png);
+  background-image: url(./fundoHero.png);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -181,4 +181,5 @@ color: rgb(54, 54, 54);
 button{
   margin-top: 20px;
 }
+
 
